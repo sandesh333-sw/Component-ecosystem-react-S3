@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1 className="text-blue-600 dark:text-sky-400">Learn to integrate tailwind</h1>
-      <div className='max-w-sm bg-white  border border-gray-200 rounded-xl mt-8'>
+      <div className='max-w-sm bg-white  border border-gray-200 rounded-xl mt-8 overflow-hidden'>
         <img 
           className='w-full h-48 object-cover'
           src="https://images.pexels.com/photos/31203664/pexels-photo-31203664.jpeg" alt="Sample image" />
